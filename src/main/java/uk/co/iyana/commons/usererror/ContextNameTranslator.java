@@ -8,7 +8,15 @@ package uk.co.iyana.commons.usererror;
 /**
  *
  * @author fgyara
- */
+ */   
+
+
+
+
+
+
+
+
 public abstract class ContextNameTranslator {
 
     public abstract String xlatColumnNameToFieldName(String columnName);
