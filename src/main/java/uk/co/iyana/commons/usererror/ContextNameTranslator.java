@@ -4,19 +4,11 @@
  * and open the template in the editor.
  */
 package uk.co.iyana.commons.usererror;
-//xxx
+
 /**
  *
  * @author fgyara
  */   
-
-
-
-
-
-
-
-
 public abstract class ContextNameTranslator {
 
     public abstract String xlatColumnNameToFieldName(String columnName);
