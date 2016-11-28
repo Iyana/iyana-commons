@@ -5,9 +5,6 @@
  */
 package uk.co.iyana.commons.usererror;
 
-
-// random change
-
 /**
  *
  * @author fgyara
